@@ -32,7 +32,7 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
-
+Most people believe you need to follow one path to suceed, Pick a lane and stay in it. But i believe most valuable professionals of the future will be the ones who refuse to stay in one lane. Being a Virtual Assistant who is also a devops engineer is not confusion, it is strategy.The word does not reward speacialist alone anymore. It rewards people who can connect skills others never thought to combine
 Add your answer here...
 
 ---
@@ -55,23 +55,22 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Waiting until you feel ready will cost you more than starting imperfect ever will...
 
 ### Evidence from my life
 
-Add your answer here...
+I registered for cohort 2 and disappeared before it started because i didn't feel qualified enough. Six months later i watched others grow while i stayed stuck. When I finally registered for Cohort 3 and showed up anyway, I realized the fear never goes away. You just have to move despite it.
 
 ---
 
 ## Truth #2
 
 ### Truth
-
-Add your answer here...
+Consistency in public builds credibility faster than private preparation 
 
 ### Evidence from my life
 
-Add your answer here...
+I spent months improving my skills quietly but got no recognition or opportunities. The moment I started posting on linkedin about my journey people started to notice me and engage with my work
 
 ---
 
@@ -79,12 +78,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Your background is not a limitation, It is your differentiator.
 
 ### Evidence from my life
 
 Add your answer here...
-
+As a Virtual Assistant when i upskilled into devops i felt out of place among engineers, But my admin experience actually gives me an edge in understanding operations, communication and workflow that purely technical people often lack
 ---
 
 # Assignment 3. What does your 2.0 version look like?
@@ -94,6 +93,13 @@ Add your answer here...
 Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
 
 **Minimum 300 words.**
+Onyemaechi Blessing Brenda was a Virtual Assistant who got tired of just supporting other people's visions without understanding the technology behind them.
+In December 2024 she enrolled in an IT Support course. She was not consistent at first. Life happened. But in 2025 something changed. She went back to her materials, pushed through the parts that confused her, and discovered something unexpected. She loved building things. Not just managing them. Actually building them. That realization changed everything.
+She completed her Cloud Computing course in 2025 and kept going. In 2026 she registered for the DevOps Micro Internship Cohort 3, not because she felt ready, but because she had already learned what waiting felt like. She had registered for Cohort 2 and disappeared before it started. She was not going to do that again.
+She showed up every Saturday for 8 hour sessions as one of the only participants without a traditional engineering background. She cloned her first repository. She pushed her first commit. She completed assignments that were designed for people with more technical experience and she did not quit.
+By 2027 she had landed her first remote role, combining her Executive VA background with her cloud and DevOps skills to manage operations and infrastructure for a fully remote tech company. She earned in dollars. She worked from anywhere.
+She built TheCakeTechGirl into a platform that documented the whole journey honestly, the false starts, the 8 hour Saturdays, the job rejections, the eventual breakthrough. Thousands of African women followed her story because it looked like theirs.
+She was not the most technical person in any room she entered. But she was always the most determined. And in the end that was the thing that could not be taught.
 
 ### Rules
 
@@ -136,13 +142,25 @@ Include this line:
 ## Your Article
 
 Add your answer here...
+What My 2.0 Version Looks Like
+Three to five years from now, Onyemaechi Blessing Brenda is a Cloud and DevOps Engineer.
+Her path didn't start in a terminal. It started behind a calendar, an inbox, and someone else's to-do list.
+By 2.0, she had deployed a Kubernetes application with add-ons on AWS, provisioning the infrastructure herself as part of a group project. Documented AWS IAM Identity Center and Organizations, working through multi-account access and SSO. Completed the DevOps Micro Internship, Agentic AI Cohort 3, showing up every Saturday for 8-hour sessions as one of the only people in the room without an engineering background.
+She registered for Cohort 2 first. Disappeared before it started. Came back anyway.
+She cloned her first repo. Pushed her first commit.
+She went on to work as a DevOps Engineer for companies across the UK and Canada, remote roles that didn't care where she was sitting, only what she could build.
+She had grown a stronger personal brand on social media, one built on showing the real climb instead of just the highlight reel.
+She was rarely the most technical person in the room.
+She was always the one still there when the room emptied out.
+That's the part that can't be taught.
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community (https://lnkd.in/eS7E-C84)
 
 ### Public Link
 
-Paste your link here:
+Paste your link here: https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
 
 `__________________________`
-
+https://www.linkedin.com/posts/onyemaechibrenda_what-my-20-version-looks-like-three-to-share-7478715337648168960-ZGbs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 ---
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -173,7 +191,10 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Add your answer here..Yes
+During my cloud computing final projectlast year i presented work as though i was a core contributorwhen inreality i had not fully understood what was built. It was only after the project that i went back to properly learn what had been done.
+I have also listd experience on my CV that i was still building when i applied for internships and Virtual Assistants roles. It felt neccessary at that time because i needed the opportunity.
+But it came with stress, the constant fear of being found out and not being able to deliver. What i felt most was a low level anxiety that never fully went away. Not guilt exactly..More like a background noise reminding me that i was not standing on solid ground. That feeling is actually what pushed me to get serious about actually building the skills i have been claiming to have. 
 
 ---
 
@@ -199,16 +220,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits by James Clear
+2. An Enemy called Average by John L. Mason
+3. The magic of thinking big by David j Schwartz
+4. Built to last by collins and porpas 
+5. The psychology of wealth 
+6. The Psychology of money by Morgan Housel
+7. Success Habits by Napoleon Hill
+8. Secret of the millioniare mind by T. Harv Eker
+9. How to win friends and influence people by Dale Carnegie
+10.The 5AM club by Robin Sharma
 
 ---
 
@@ -237,16 +258,17 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning Hours per week
+* DMI assignments completed per week
+* Job Applications sent per week 
+* Linkedin posts published per week 
+* Books read per month
+* Sleep hours per night
+* Daily focus/deep sessions
+* Number of personal brand post across all social media per week
+* Prayer and meditation time daily
+
+
 
 ---
 
@@ -270,9 +292,8 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer:Yes
 
-Add your answer here...
 
 ---
 
@@ -290,19 +311,20 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
+Mon -Fri:1 hour deep work on DMI or job appliactions
+Saturday : DMI 8-hour session 
+Sunday: Weekly review and palnning
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Add your answer here...Mondayto Friday evenings, Saturday full day
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 sessions per week
 
 ---
 
@@ -316,27 +338,26 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+Add your answer here...Phone on silent during deep work
+No social media until after morning tasks
+Work in a quiet space with no TV
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
-
-Add your answer here...
+I perform better when i am accountable to others not just myself
 
 ### My biggest weakness/loop I noticed
-
-Add your answer here...
+Distraction and starting things without finishing them
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+60 mins focused DMI work every evening at 8pm
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Paste your LinkedIn post link here:https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
 `__________________________`
 
@@ -344,8 +365,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **ADD LINK HERE**  https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
+- Blog / Medium : **ADD LINK HERE**  https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
 
 ---
 
