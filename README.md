@@ -12,8 +12,7 @@
 
 ## About Me
 
-| | |
-|---|---|| **Name** | Onyemaechi Blessing Brenda |
+| **Name** | Onyemaechi Blessing Brenda |
 | **LinkedIn** | [onyemaechibrenda] (https)://www.linkedin.com/in/onyemaechibrenda |
 | **Location** | Enugu Nigeria |
 | **Background** | Cloud, DevOps & Agentic AI |
