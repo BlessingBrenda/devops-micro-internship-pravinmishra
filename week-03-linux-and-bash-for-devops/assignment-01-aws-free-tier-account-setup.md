@@ -20,19 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+ AWS account is my login and billing identity on Amazon's cloud platform. It's what lets me actually spin up services like EC2 servers or S3 buckets instead of just reading about how An they work. Since EpicReads is moving to the cloud, I need this account to move past tutorials and get hands-on in the same environment a real DevOps engineer would use. It's the foundation before I can build or test anything for the migration.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
-
-Write your answer here.
+AWS Free Tier lets users explore and experiment with AWS services at little or no cost, as long as usage stays within set limits. The structure actually depends on when the account was created: accounts made after July 15, 2025 get a $200 credit that lasts up to 6 months, while accounts created before that date follow the older 12-month free usage model. Either way, it gives beginners like me room to build and test things without worrying about unexpected billing.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
+EC2: 750 hours/month of a t2.micro/t3.micro instance, enough to run one small server continuously, useful for testing EpicReads' backend.
+S3: 5GB of standard storage plus 20,000 GET and 2,000 PUT requests/month, good for storing static assets like book cover images.
+DynamoDB: part of AWS's "Always Free" tier, offering 25GB of storage plus 25 provisioned read/write capacity units/month, which never expires regardless of when the account was created.
 
-Write your answer here.
+
 
 ---
 
@@ -55,8 +57,8 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 ### Evidence
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
-
-Add your screenshot here.
+![AWS Account page showing account name](<screenshots/Aws-account-Page.png>)
+![Notepad showing name clearly](screenshots/Name.png)
 
 ---
 

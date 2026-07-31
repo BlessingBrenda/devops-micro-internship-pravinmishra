@@ -82,7 +82,6 @@ Your background is not a limitation, It is your differentiator.
 
 ### Evidence from my life
 
-Add your answer here...
 As a Virtual Assistant when i upskilled into devops i felt out of place among engineers, But my admin experience actually gives me an edge in understanding operations, communication and workflow that purely technical people often lack
 ---
 
@@ -141,7 +140,6 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
 What My 2.0 Version Looks Like
 Three to five years from now, Onyemaechi Blessing Brenda is a Cloud and DevOps Engineer.
 Her path didn't start in a terminal. It started behind a calendar, an inbox, and someone else's to-do list.
@@ -191,7 +189,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here..Yes
+Yes
 During my cloud computing final projectlast year i presented work as though i was a core contributorwhen inreality i had not fully understood what was built. It was only after the project that i went back to properly learn what had been done.
 I have also listd experience on my CV that i was still building when i applied for internships and Virtual Assistants roles. It felt neccessary at that time because i needed the opportunity.
 But it came with stress, the constant fear of being found out and not being able to deliver. What i felt most was a low level anxiety that never fully went away. Not guilt exactly..More like a background noise reminding me that i was not standing on solid ground. That feeling is actually what pushed me to get serious about actually building the skills i have been claiming to have. 
@@ -320,7 +318,7 @@ Sunday: Weekly review and palnning
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...Mondayto Friday evenings, Saturday full day
+Monday to Friday evenings, Saturday full day
 
 #### How Many Sessions Per Week?
 
@@ -338,7 +336,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...Phone on silent during deep work
+Phone on silent during deep work
 No social media until after morning tasks
 Work in a quiet space with no TV
 ---
@@ -360,6 +358,7 @@ Distraction and starting things without finishing them
 Paste your LinkedIn post link here:https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
 `Add your URL here`
+https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
 ---
 

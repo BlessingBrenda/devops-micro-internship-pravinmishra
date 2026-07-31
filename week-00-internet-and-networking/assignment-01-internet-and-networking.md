@@ -25,7 +25,10 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](PIC 1.png)
+PIC 2.png
+PIC3.png
+PIC4.png
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +37,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol is simply a set of rules that lets devices communicate and understand each other, similar to how WhatsApp messages or phone calls follow steps like connecting, sending, and confirming. Without protocols, computers wouldn't know how to format, send, or verify data, so nothing would actually work.
 
 ---
 
@@ -59,7 +62,11 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world tries to access EpicReads, their device first needs to find the website's location. It sends a request to a DNS server, which acts like a phonebook and translates the domain name (epicreads.com) into the numerical IP address of the server hosting it in Finland.
+
+Once the address is known, the user's request travels across the internet using packet switching. The data is broken into small packets, each one routed independently across various networks until it reaches the Finland-based server. The server processes the request and sends the response back the same way, in packets, which are reassembled on the user's device.
+
+This is possible because every device on this journey follows shared protocols like TCP/IP, which define how data is formatted, sent, and confirmed, so no matter where in the world a user is, the request finds its way to Finland and back.
 
 ---
 
@@ -91,7 +98,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](PIC5.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,17 +109,20 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
+* React (for building an interactive, component-based user interface)
+- HTML/CSS with a framework like Tailwind (for styling and responsive layout)
 * Add your answer here...
 
 ### Backend
 
-* Add your answer here...
+* Node.js with Express (to handle server-side logic and API requests)
+- REST API (to allow the frontend to communicate with the backend)
 * Add your answer here...
 
 ### Database
 
-* Add your answer here...
+* PostgreSQL (a relational database, ideal for structured data like books, orders, and users)
+- Redis (optional, for caching frequently accessed data like popular book listings)
 * Add your answer here...
 
 ---
@@ -142,7 +152,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) works like the internet's phonebook. It translates human-friendly domain names, like epicreads.com, into the numerical IP address that computers actually use to locate a server, such as 52.172.142.222.
+
+To connect epicreads.com to this IP address, an A record should be used. An A record maps a domain name directly to an IPv4 address, which is exactly what's needed here since we have a numeric IP and want the domain name to resolve to it. Since the site also runs on port 3000, that detail would be handled separately in the server or reverse proxy configuration, not through DNS itself.
 
 ---
 
@@ -178,7 +190,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](PIC6.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -215,19 +227,62 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here:https://www.linkedin.com/posts/onyemaechibrenda_thecaketechgirl-activity-7449881174187032576-h_c_?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA 
 
 ```text
-Add your URL here...
+
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+From baking cakes to building systems…
+Turns out both need the right layers 🍰☁️
 
-Add your post content here...
+I used apps everyday, but I never really understood what happens behind the scenes.
+This week, that changed. 
+
+I just completed my Week 0 DevOps assignment, and here’s what clicked for me:
+
+•ChatGPT : It’s not just a chatbot, but a learning partner
+•Networking :The internet isn’t magic… it’s structured (TCP/IP)
+•Architecture :Apps are built in layers (2-tier vs 3-tier)
+•DNS :The internet’s phonebook
+•VS Code :My workspace is finally ready
+
+My biggest realization: Every click,Every app, Every website is powered by systems working together behind the scenes.
+
+And now, I’m starting to understand it.
+
+This is just the beginning  and I’m documenting my DevOps journey as I grow ☁️
+#TheCakeTechgirl 
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra  You can start your DevOps journey for free from his YouTube Playlist
+
+Add your post content here...From baking cakes to building systems…
+Turns out both need the right layers 🍰☁️
+
+I used apps everyday, but I never really understood what happens behind the scenes.
+This week, that changed. 
+
+I just completed my Week 0 DevOps assignment, and here’s what clicked for me:
+
+•ChatGPT : It’s not just a chatbot, but a learning partner
+•Networking :The internet isn’t magic… it’s structured (TCP/IP)
+•Architecture :Apps are built in layers (2-tier vs 3-tier)
+•DNS :The internet’s phonebook
+•VS Code :My workspace is finally ready
+
+My biggest realization: Every click,Every app, Every website is powered by systems working together behind the scenes.
+
+And now, I’m starting to understand it.
+This is just the beginning and I’m documenting my DevOps journey as I grow ☁️
+hashtag#TheCakeTechgirl 
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra You can start your DevOps journey for free from his YouTube Playlist
+
+
 
 ---
 
@@ -235,19 +290,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Using ChatGPT as a learning tool came naturally to me since I already talk to it daily. Breaking down what a protocol is and how devices communicate wasn't too hard once I had a real-life example like WhatsApp or a phone call to compare it to.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding the difference between 2-tier and 3-tier architecture took a bit more effort, since it required picturing how the frontend, backend, and database actually separate and communicate with each other, rather than just memorizing definitions. DNS also took a second read before it clicked.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I want to spend more time actually testing concepts hands-on instead of just reading about them, and get faster at setting up my tools so I can move through tasks with less friction.
 
 ---
 

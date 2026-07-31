@@ -66,13 +66,13 @@ This is not a course. It is an internship-style program — real deployments, re
 **Your stack :**
 
 <!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
 <!-- Week 01 → Success Mindset -->
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux & Bash for DevOps -->
 <!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
@@ -127,11 +127,13 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ✅ Completed|  ✅ Solved | https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA | https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
+| 00 | Internet & Networking Basics | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/onyemaechibrenda_thecaketechgirl-activity-7449881174187032576-h_c_?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA | https://medium.com/@blessingbrendaa2/week-0-of-my-devops-journey-4934372a7340 |
+| 01 | Success Mindset | ✅ Completed|  ✅ Solved | https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
  |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed|✅ Solved |Agentic AI
+
+https://www.linkedin.com/posts/onyemaechibrenda_dmibypravinmishra-agenticai-claudecode-share-7488059771640700928-C9Sb/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/reflection-week-2-8ca866d18aab |
+| 03 | Linux & Bash for DevOps |✅ Completed | ✅ Solved| — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
