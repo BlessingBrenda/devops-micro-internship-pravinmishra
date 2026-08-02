@@ -33,7 +33,6 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 Most people believe you need to follow one path to suceed, Pick a lane and stay in it. But i believe most valuable professionals of the future will be the ones who refuse to stay in one lane. Being a Virtual Assistant who is also a devops engineer is not confusion, it is strategy.The word does not reward speacialist alone anymore. It rewards people who can connect skills others never thought to combine
-Add your answer here...
 
 ---
 
@@ -154,10 +153,8 @@ That's the part that can't be taught.
 P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community (https://lnkd.in/eS7E-C84)
 
 ### Public Link
+ https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
 
-Paste your link here: https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
-
-`Add your URL here`
 https://www.linkedin.com/posts/onyemaechibrenda_what-my-20-version-looks-like-three-to-share-7478715337648168960-ZGbs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 ---
 
@@ -218,16 +215,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Atomic Habits by James Clear
+1. Atomic Habits by James Clear ![alt text](screenshots/atomic-habits.png)
 2. An Enemy called Average by John L. Mason
 3. The magic of thinking big by David j Schwartz
 4. Built to last by collins and porpas 
 5. The psychology of wealth 
-6. The Psychology of money by Morgan Housel
+6. The Psychology of money by Morgan Housel ![alt text](<screenshots/psychology of money.jpeg>)
 7. Success Habits by Napoleon Hill
 8. Secret of the millioniare mind by T. Harv Eker
 9. How to win friends and influence people by Dale Carnegie
-10.The 5AM club by Robin Sharma
+10.The 5AM club by Robin Sharma ![alt text](screenshots/5am.jpg)
 
 ---
 
@@ -290,7 +287,7 @@ Examples:
 
 **Yes / No**
 
-Answer:Yes
+Yes
 
 
 ---
@@ -338,7 +335,7 @@ Examples:
 
 Phone on silent during deep work
 No social media until after morning tasks
-Work in a quiet space with no TV
+Work in a quiet space with no Television
 ---
 
 # Reflection – Week 1
@@ -355,17 +352,16 @@ Distraction and starting things without finishing them
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
+https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
-`Add your URL here`
 https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
-- Blog / Medium : **ADD LINK HERE**  https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
+ https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
+  https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
 
 ---
 

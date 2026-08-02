@@ -130,9 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/onyemaechibrenda_thecaketechgirl-activity-7449881174187032576-h_c_?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA | https://medium.com/@blessingbrendaa2/week-0-of-my-devops-journey-4934372a7340 |
 | 01 | Success Mindset | ✅ Completed|  ✅ Solved | https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
  |
-| 02 | Agentic AI with Claude Code | ✅ Completed|✅ Solved |Agentic AI
-
-https://www.linkedin.com/posts/onyemaechibrenda_dmibypravinmishra-agenticai-claudecode-share-7488059771640700928-C9Sb/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/reflection-week-2-8ca866d18aab |
+| 02 | Agentic AI with Claude Code | ✅ Completed|✅ Solved | https://www.linkedin.com/posts/onyemaechibrenda_dmibypravinmishra-agenticai-claudecode-share-7488059771640700928-C9Sb/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/reflection-week-2-8ca866d18aab |
 | 03 | Linux & Bash for DevOps |✅ Completed | ✅ Solved| — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
