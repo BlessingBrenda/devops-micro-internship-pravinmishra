@@ -20,9 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
-
----
+![alt text](screenshots/claude-subagents-sidebar.png)
 
 # Task 2 — Compare the Agent Configurations
 
@@ -33,36 +31,30 @@ Analyze the configuration differences between the three agents and demonstrate u
 ### Written Answers
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
+Haiku's the right pick here because cost optimization doesn't need heavy thinking. You're scanning for expensive API calls, checking configs against a checklist, flagging wasted resources. That's pattern matching work. Haiku's fast enough and cheap enough for this job. Sonnet would be overkill and cost way more per token for no real benefit.
 
-Add your answer here...
-
----
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+A security auditor's job is to find problems and report them, not fix them. If you give it Write access, you're breaking its own purpose. Plus it's risky. If anything compromises that agent, you don't want it able to touch your infrastructure. Better to leave it read-only. It can still do its job: read code, check configs, flag issues. The agent doesn't need to write anything to do that.
 
----
+
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+inherit lets the tf-writer use whatever model the main conversation is running. That's more flexible than hardcoding a model. Claude Code checks the CLAUDE_CODE_SUBAGENT_MODEL environment variable, so you can swap models on each call without redefining the agent every time. It's just cleaner that way.
 
----
+
 
 ### Evidence
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
-
----
+![alt text]
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
-
----
+![alt text]
 
 # Task 3 — Run the Security Auditor
 
@@ -74,15 +66,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![alt text]
 
----
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![alt text]
 
----
 
 # Task 4 — Run the Cost Optimizer
 
@@ -94,9 +84,10 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+[alt te!xt](screenshots/tf-review-for-cost-opt.png)
+![alt text](screenshots/tf-review-for-cost-opt2.png)
 
----
+
 
 # Submission Instructions
 
@@ -104,15 +95,13 @@ Add your screenshot here.
 - Complete all written answers in your GitHub Repo
 - Push final changes to your forked GitHub repository
 
----
+
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/BlessingBrenda/devops-micro-internship-pravinmishra.git
 
-`Add your URL here`
 
----
 
 # Completion Checklist
 

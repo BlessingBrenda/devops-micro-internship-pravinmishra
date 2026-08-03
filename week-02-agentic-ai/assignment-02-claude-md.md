@@ -82,7 +82,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![alt text](<screenshots/Claude.Md showing in repo.png>)
 
 ---
 
@@ -97,7 +97,7 @@ Add your screenshot here.
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
-https://github.com/BrendyBrendora/devops-micro-internship-pravinmishra.git
+https://github.com/BlessingBrenda/devops-micro-internship-pravinmishra.git
 
 
 ---

@@ -20,9 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
-
----
+![alt text](screenshots/memory-path.png)
 
 # Task 2 — Give Claude Information to Remember
 
@@ -34,15 +32,12 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
-
----
+![alt text](screenshots/memory-content-saved.png)
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
-
----
+![alt text](screenshots/MEMORY.md.png)
+![alt text](screenshots/design_constraints.MEM.md.png)
 
 # Task 3 — Close the Session Completely
 
@@ -54,9 +49,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
-
----
+![alt text](screenshots/vscode-reopened.png)
 
 # Task 4 — Prove Memory Recall Across Sessions
 
@@ -68,15 +61,11 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![alt text](screenshots/Claude-recalling-section-color.png)
 
----
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
-
-Add your screenshot here.
-
----
+![alt text](screenshots/Claude-refusal-javascript.png)
 
 # Submission Instructions
 
@@ -85,23 +74,17 @@ Add your screenshot here.
 - Add all required screenshots to your GitHub repository
 - Push final changes to your forked repository
 
----
 
 ## Linkedin Post Link
 
-Paste your Linkedin post link here:
+https://www.linkedin.com/posts/onyemaechibrenda_i-closed-my-claude-code-session-mid-project-ugcPost-7489838101650096128-C2Fx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
-`Add your URL here`
 
----
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/BlessingBrenda/devops-micro-internship-pravinmishra.git
 
-`Add your URL here`
-
----
 
 # Completion Checklist
 

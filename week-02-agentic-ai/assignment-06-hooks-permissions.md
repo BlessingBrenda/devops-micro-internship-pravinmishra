@@ -20,9 +20,8 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 #### Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
-Add your screenshot here.
+![alt text](screenshots/settings.json.png)
 
----
 
 # Task 2 — Create the UserPromptSubmit Hook Script
 
@@ -34,9 +33,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 #### Screenshot 2 — `user-prompt-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
-
----
+![alt text](screenshots/hooks-created.png)
 
 # Task 3 — Create the PreToolUse Hook Script
 
@@ -48,9 +45,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 #### Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
-
----
+![alt text](screenshots/hooks-pretool-guard.png)
 
 # Task 4 — Create the PostToolUse Hook Script
 
@@ -62,9 +57,8 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+![alt text](screenshots/hooks-post-tool.png)
 
----
 
 # Task 5 — Configure settings.json to Connect Hook Scripts
 
@@ -76,9 +70,9 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 #### Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
 
-Add your screenshot here.
+![alt text](screenshots/settings.json.png)
 
----
+
 
 # Task 6 — Test the UserPromptSubmit Hook
 
@@ -125,7 +119,8 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 9 required screenshots
 
----
+GitHub Repository URL
+https://github.com/BlessingBrenda/devops-micro-internship-pravinmishra.git
 
 # Completion Checklist
 

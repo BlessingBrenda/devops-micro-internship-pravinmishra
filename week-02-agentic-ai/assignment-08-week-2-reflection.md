@@ -1,3 +1,4 @@
+
 # Assignment 8 — Week 2 Reflection Blog
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
@@ -46,24 +47,20 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![alt text](screenshots/Blog.png)
 
----
 
 ### Submission Field
 
 Blog Link:
-
-`Add your URL here`
-
----
+https://medium.com/@blessingbrendaa2/reflection-week-2-8ca866d18aab
 
 # Task 2 — Create LinkedIn Post
 
 ## Goal
 
 Share your Week 2 learning publicly on LinkedIn.
-
+![alt text](screenshots/link.png)
 ---
 
 ### LinkedIn Post Requirements
@@ -92,25 +89,26 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
-
----
+![alt text](screenshots/link.png)
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
+LinkedIn Post Content (copy-paste here)
 
-```
-Paste your LinkedIn post content here
-```
-
----
+Why I Broke My Own Claude Code Session on Purpose
+A beginner's note from my DevOps and Agentic AI journey.
+I told Claude Code three rules for my project. Hero section colors. Mobile breakpoints. No JavaScript, ever. Then I closed the session completely and opened a fresh one, no lingering chat.
+It didn't ask me to repeat myself. It just knew.
+I pushed further and asked for something that would've broken the no-JavaScript rule. It stopped itself and pointed back to the rule from a session it technically had no memory of.
+That's when it clicked. I'd pictured "AI memory" as invisible, happening somewhere inside the model. It's not. It's one markdown file, MEMORY.md, sitting in my project folder, that I can open and read like a note left for myself.
+Which means when the agent gets something wrong, I'm not debugging a black box. I'm checking what got written down.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI  Cohort 3  by Pravin Mishra. My graded progress is public: https://lnkd.in/eNi3cqeH · 
+Start your DevOps journey: https://lnkd.in/eewwyTup
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
-
----
+https://www.linkedin.com/posts/onyemaechibrenda_dmibypravinmishra-agenticai-claudecode-share-7489846386868387840-PUu2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
 # Submission Instructions
 
