@@ -111,19 +111,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 * React (for building an interactive, component-based user interface)
 - HTML/CSS with a framework like Tailwind (for styling and responsive layout)
-* Add your answer here...
+
 
 ### Backend
 
 * Node.js with Express (to handle server-side logic and API requests)
 - REST API (to allow the frontend to communicate with the backend)
-* Add your answer here...
+
 
 ### Database
 
 * PostgreSQL (a relational database, ideal for structured data like books, orders, and users)
 - Redis (optional, for caching frequently accessed data like popular book listings)
-* Add your answer here...
+
 
 ---
 
@@ -260,7 +260,7 @@ This is just the beginning  and I’m documenting my DevOps journey as I grow �
 
 P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra  You can start your DevOps journey for free from his YouTube Playlist
 
-Add your post content here...From baking cakes to building systems…
+From baking cakes to building systems…
 Turns out both need the right layers 🍰☁️
 
 I used apps everyday, but I never really understood what happens behind the scenes.
