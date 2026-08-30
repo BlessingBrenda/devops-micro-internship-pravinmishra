@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+![alt text](screenshots/Nginxx.png)
 
 ---
 
@@ -28,13 +28,14 @@ Add your screenshot here.
 
 ## Goal
 
+
 Download and extract the portfolio website template.
 
 ### Evidence
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 1.png>)
 
 ---
 
@@ -48,7 +49,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 2.png>)
 
 ---
 
@@ -62,13 +63,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 3.png>)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 3'2.png>)
 
 ---
 
@@ -82,14 +83,14 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 4'1.png>)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
 
+![alt text](<screenshots/Screenshot Task 4.png>)
 ---
 
 # Task 5 — Mini Real DevOps Operational Check
@@ -102,13 +103,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 5.png>)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot Task 5'2.png>)
 
 ---
 
@@ -116,17 +117,14 @@ Add your screenshot here.
 
 ## Evidence
 
-#### LinkedIn Post URL
-
-Paste your LinkedIn post URL here:
-
-`Add your URL here`
+##
+https://www.linkedin.com/posts/onyemaechibrenda_dmibypravinmishra-agenticai-devops-activity-7496783362813054976-OuSd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+![alt text](screenshots/Se.png)
 
 ---
 
