@@ -131,13 +131,13 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed|  ✅ Solved | https://www.linkedin.com/posts/onyemaechibrenda_dmicohort3-devops-agenticai-activity-7478766068417658880-tZyc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/from-virtual-assistant-to-devops-engineer-my-2-o-version-fb09b435c45f?sharedUserId=blessingbrendaa2
  |
 | 02 | Agentic AI with Claude Code | ✅ Completed|✅ Solved | https://www.linkedin.com/posts/onyemaechibrenda_dmibypravinmishra-agenticai-claudecode-share-7488059771640700928-C9Sb/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA| https://medium.com/@blessingbrendaa2/reflection-week-2-8ca866d18aab |
-| 03 | Linux & Bash for DevOps |✅ Completed | ✅ Solved| — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/onyemaechibrenda_devops-aws-linux-activity-7503471765004865536-LGmL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXeP7cBfyttCN7YeWGWskgXxa5AJ5Vk1KA | https://medium.com/@blessingbrendaa2/building-an-ai-assisted-linux-health-check-system-b4e73960db21 |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed  | ✅ Solved | — | — |
+| 06 | AWS Cloud | ✅ Completed  | ✅ Solved | — | — |
+| 07 | Azure Cloud | ✅ Completed  | ✅ Solved | — | — |
+| 08 | Terraform | ✅ Completed  | ✅ Solved | — | — |
+| 09 | Ansible | ✅ Completed  | ✅ Solved | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |

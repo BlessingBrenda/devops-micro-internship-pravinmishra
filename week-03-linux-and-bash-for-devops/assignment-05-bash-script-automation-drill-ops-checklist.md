@@ -438,7 +438,6 @@ Honestly this script pulls together everything I've learned so far. I used varia
 
 https://lnkd.in/p/en5xMm32
 
-`Add your URL here`
 
 ---
 
